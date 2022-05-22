@@ -1,0 +1,49 @@
+@media screen and (min-width: 330px) and (max-width: 584px){
+
+    
+    body{
+
+        width: 100%;
+        min-height: 100vh;
+        background-color: #FF1616;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        }
+    
+    
+    .container{
+        margin-left: 20px;
+        margin-right: 20px;
+        
+
+}
+
+.header {
+
+    background-color: #eee;
+    padding: 4px;
+    font-size: 15px;
+}
+
+
+.form {
+
+    padding: 1px;
+}
+
+.form button{
+
+    padding: 3.5px 7px;
+    margin-bottom: 10px;
+    width: 70%;
+    margin-left: 55px;
+}
+
+.img img {
+
+   
+    display: none;
+}
+
+}
